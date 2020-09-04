@@ -1,3 +1,21 @@
+@media only screen and (max-width: 400px) {
+  
+  .featured--info, .featured--name{
+    
+    text-align: left;
+  } 
+}
+
+@media only screen and (max-width: 600px){
+  .featured--description  {
+    width:100%!important;
+    font-size: 10px;
+    text-align: center;
+    padding-right: 30px;
+    color:#bebaba;
+  }
+}
+
 .featured{
   height: 100vh;
   
@@ -31,6 +49,7 @@
   font-size: 60px;
   font-weight: bold;
   
+  
 }
 
 .featured--info{
@@ -54,7 +73,7 @@
   margin-top: 15px;
   font-size:20px;
   color:#999;
-  max-width: 40%;
+  width: 40% ;
   text-align: justify;
 }
 

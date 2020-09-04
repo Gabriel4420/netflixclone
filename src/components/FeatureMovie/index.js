@@ -12,7 +12,7 @@ export default ({item}) => {
   
   let titulo = item.original_name;
 
-  if(titulo == 'Law & Order: Special Victims Unit'){
+  if(titulo === 'Law & Order: Special Victims Unit'){
     titulo = titulo.substring(0,11);
   }
   
