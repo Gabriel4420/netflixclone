@@ -4,7 +4,7 @@
 
 ![](about-project.png)
 
-## Scripts Disponíveis
+## Sobre o Projeto
 
 No diretório do projeto, você pode executar:
 
