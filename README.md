@@ -1,6 +1,6 @@
 # Clone Netflix Interface Principal - feita por Bonieky
 
-## Adaptada por Gabriel Rodrigues
+## Adaptado por Gabriel Rodrigues
 
 ![](https://img.shields.io/github/languages/top/Gabriel4420/netflixclone) ![](https://img.shields.io/github/languages/count/Gabriel4420/netflixclone)
 
